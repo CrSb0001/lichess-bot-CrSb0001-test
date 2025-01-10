@@ -1,11 +1,11 @@
-ECO,name,moves
-A01,Ringelbach Gambit, Larsen,1.b3 e5 2.Bb2 f5 3.e4
-A01,Paschmann Gambit, Larsen,1.b3 e5 2.Bb2 Nc6 3.f4
-A01,Dutch Variation, Larsen,1.b3 f5
-A01,Indian Variation, Larsen,1.b3 Nf6
-A01,Spike Variation, Larsen,1.b3 Nf6 2.Bb2 g6 3.g4
-A00,Polish; Orangutan; Sokolsky; Hunt,1.b4
-A00,Birmingham Gambit, Polish,1.b4 c5
-A00,Outflank Variation, Polish,1.b4 c6
-A00,Schuhler Gambit, Polish,1.b4 c6 2.Bb2 a5 3.b5 cxb5 4.e4
-A00,Myers Variation, Polish,1.b4 d5 2.Bb2 c6 3.a4
+"ECO","name","moves"
+"A01","Ringelbach Gambit, Larsen","1.b3 e5 2.Bb2 f5 3.e4"
+"A01","Paschmann Gambit, Larsen","1.b3 e5 2.Bb2 Nc6 3.f4"
+"A01","Dutch Variation, Larsen","1.b3 f5"
+"A01","Indian Variation, Larsen","1.b3 Nf6"
+"A01","Spike Variation, Larsen","1.b3 Nf6 2.Bb2 g6 3.g4"
+"A00","Polish; Orangutan; Sokolsky; Hunt","1.b4"
+"A00","Birmingham Gambit, Polish","1.b4 c5"
+"A00","Outflank Variation, Polish","1.b4 c6"
+"A00","Schuhler Gambit, Polish","1.b4 c6 2.Bb2 a5 3.b5 cxb5 4.e4"
+"A00","Myers Variation, Polish","1.b4 d5 2.Bb2 c6 3.a4"
